@@ -1,4 +1,4 @@
-[VM](https://github.com/abiForSofteam/aws/blob/main/readme.md) | [groupes de sécurité](https://github.com/abiForSofteam/aws/blob/main/instances) | [EKS](https://github.com/abiForSofteam/aws/blob/main/instances)
+[VM](https://github.com/abiForSofteam/aws/blob/main/instances) | [groupes de sécurité](https://github.com/abiForSofteam/aws/blob/main/security-groups) | [EKS](https://github.com/abiForSofteam/aws/blob/main/eks)
 
 
 
