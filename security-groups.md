@@ -1,14 +1,15 @@
 # MISE EN PLACE D'UN GROUPE DE SECURITE
 Un groupe de sécurité est un ensemble de règles de pare-feu qui contrôlent le trafic de notre instance.
-<br />Il nous permet en effet, d'autoriser ou non, le trafic en direction de notre machine.
+<br />Il nous permet en effet, d'autoriser ou non, le trafic en direction de notre machine ou depuis notre machine.
 Plusieurs groupes de sécurité peuvent être crées selon les besoins.
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/4e1c234c-f4bd-4e30-bdf1-17e3a2135776)
+<br />
+<br />
 
+![image](https://github.com/abiForSofteam/aws/assets/56606441/000f52ea-8907-4b79-bc96-9fa9e41de6bd)
 
-
-
-
+<br /><br />
 
 # CREATION D'UN COMPTE NOMINATIF
 Ce compte pourra être assigné à un collaborateur spécifique qui aura des droits limités.
