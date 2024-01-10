@@ -1,4 +1,4 @@
-# Mise en place d'un groupe de sécurité
+# MISE EN PLACE D'UN GROUPE DE SECURITE
 Un groupe de sécurité est un ensemble de règles de pare-feu qui contrôlent le trafic de notre instance.
 <br />Il nous permet d'autoriser ou non, le trafic en direction de notre machine.
 
