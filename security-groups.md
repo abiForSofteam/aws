@@ -4,12 +4,9 @@ Un groupe de sécurité est un ensemble de règles de pare-feu qui contrôlent l
 Plusieurs groupes de sécurité peuvent être crées selon les besoins.
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/4e1c234c-f4bd-4e30-bdf1-17e3a2135776)
+<br />
+<br />
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/c3a4dba9-9805-4c07-ad28-979721ed508f)
-
-<br />
-<br />
-
-![image](https://github.com/abiForSofteam/aws/assets/56606441/000f52ea-8907-4b79-bc96-9fa9e41de6bd)
 
 <br /><br />
 
