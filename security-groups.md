@@ -9,3 +9,8 @@ En effet, ce compte nous permettra d'éviter l'utilisation du compte root, ce qu
 
 ## ETAPE 3
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/3378283d-45b8-4e0d-be6f-0fecb3c58cf1)
+
+
+## ETAPE 4
+![image](https://github.com/abiForSofteam/aws/assets/56606441/e597547b-9ee6-4acd-bb12-115ff98fa3e5)
+
