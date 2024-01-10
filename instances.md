@@ -1,3 +1,3 @@
 # Mise en place d'une instance EC2 (sur AWS)
 
-![alt texte](https://github.com/abiForSofteam/aws/blob/main/ttt.png)
+![image](https://github.com/abiForSofteam/aws/assets/56606441/744a2fb9-5c0f-43f3-ad7d-75daffeca572)
