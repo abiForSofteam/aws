@@ -14,8 +14,9 @@ Plusieurs groupes de sécurité peuvent être crées selon les besoins.
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/b62c91b6-475b-4cf1-a740-d49854ecee5a)
 
+<br /><br />
 
-
+![image](https://github.com/abiForSofteam/aws/assets/56606441/4d75dc00-c66c-4340-90ae-3426c428c155)
 <br /><br />
 
 # CREATION D'UN COMPTE NOMINATIF
