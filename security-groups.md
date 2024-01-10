@@ -1,6 +1,10 @@
 # MISE EN PLACE D'UN GROUPE DE SECURITE
 Un groupe de sécurité est un ensemble de règles de pare-feu qui contrôlent le trafic de notre instance.
 <br />Il nous permet en effet, d'autoriser ou non, le trafic en direction de notre machine.
+Plusieurs groupes de sécurité peuvent être crées selon les besoins.
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/4e1c234c-f4bd-4e30-bdf1-17e3a2135776)
+
 
 
 
