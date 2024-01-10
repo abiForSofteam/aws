@@ -8,4 +8,4 @@ La paire de clés (clé privée et d’une clé publique) est requise lors de la
 <br /><br />
 En cliquant sur le bouton pour créer la paire de clés, on récupère par téléchargement le fichier qui les contient.
 Ce fichier doit être conservé à un emplacement tenu secret.
-Il est identifié par le nom spécifié précédemment, suivi par l'extension correspondant au format choisi (.pem ou .pp
+Il est identifié par le nom spécifié précédemment, suivi par l'extension correspondant au format choisi (.pem ou .ppk).
