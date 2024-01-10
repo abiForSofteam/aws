@@ -12,7 +12,8 @@ Plusieurs groupes de sécurité peuvent être crées selon les besoins.
 <br /><br />
 
 
-![image](https://github.com/abiForSofteam/aws/assets/56606441/3479e0f1-70a2-4e64-945c-e1b18d86fcfe)
+![image](https://github.com/abiForSofteam/aws/assets/56606441/b62c91b6-475b-4cf1-a740-d49854ecee5a)
+
 
 
 <br /><br />
