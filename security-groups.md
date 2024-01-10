@@ -1,3 +1,11 @@
+# Mise en place d'un groupe de sécurité
+Un groupe de sécurité est un ensemble de règles de pare-feu qui contrôlent le trafic de notre instance.
+<br />Il nous permet d'autoriser ou non, le trafic en direction de notre machine.
+
+
+
+
+
 # CREATION D'UN COMPTE NOMINATIF
 Ce compte pourra être assigné à un collaborateur spécifique qui aura des droits limités.
 En effet, ce compte nous permettra d'éviter l'utilisation du compte root, ce qui est une mesure de sécurité.
