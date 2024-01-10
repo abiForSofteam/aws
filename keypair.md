@@ -6,3 +6,5 @@ La paire de clés (clé privée et d’une clé publique) est requise lors de la
 <br /><br />
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/e1cc28a3-d573-4b55-9d3c-638b19954774)
 <br /><br />
+En cliquant sur le bouton pour créer la paire de clés, on récupère par téléchargement le fichier qui les contient.
+Ce fichier doit être conservé à un emplacement tenu secret.
