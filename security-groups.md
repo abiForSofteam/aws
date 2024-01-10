@@ -11,6 +11,11 @@ Plusieurs groupes de sécurité peuvent être crées selon les besoins.
 
 <br /><br />
 
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/89312bae-ef98-4608-bb8b-ddd67ea2a43d)
+
+<br /><br />
+
 # CREATION D'UN COMPTE NOMINATIF
 Ce compte pourra être assigné à un collaborateur spécifique qui aura des droits limités.
 En effet, ce compte nous permettra d'éviter l'utilisation du compte root, ce qui est une mesure de sécurité.
