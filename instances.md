@@ -18,7 +18,9 @@
 <br />
 <br />
 Après avoir sélectionner notre image, nous devons renseigner les différents champs pour la mise en place de notre instance.
-![image](https://github.com/abiForSofteam/aws/assets/56606441/caf8740a-124b-47c7-9daa-a3a42514e910)
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/cea22682-f84a-4947-bf19-c9776eb1f006)
+
 
 
 
