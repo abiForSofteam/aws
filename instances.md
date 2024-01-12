@@ -29,9 +29,8 @@ Après avoir sélectionné notre VPC,
 <br /> Optons pour le choix d'une attribution automatique d'une adresse ip publique.
 Cette adresse ip peut nous servir entre autres, pour la connexion ssh à l'instance.
 <br />La définission du groupe de sécurité pour le contrôle du trafic entrant et sortant est requise.
-<br />Sa Mise en place est développée dans la section [SECURITY GROUPS](https://github.com/abiForSofteam/aws/edit/main/security-groups.md)
+<br />Sa Mise en place est développée dans la section [Security Group](https://github.com/abiForSofteam/aws/blob/main/security-groups)
 
-<br />
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/eaddcbc7-88d5-4e67-b77c-b2d6dc6c88ba)
 
 <br />
