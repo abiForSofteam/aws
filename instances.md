@@ -48,7 +48,8 @@ Instance en cours de création
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/fdb76df6-df21-41ab-a736-eb866947dafa)
 
-![image](https://github.com/abiForSofteam/aws/assets/56606441/bae9e1ba-cdf7-4f23-9491-59c4ee9c28a6)
+![image](https://github.com/abiForSofteam/aws/assets/56606441/f3bd9be5-7c1a-48a7-947f-b1eb79d2f9e2)
+
 
 <br />
 <br />
