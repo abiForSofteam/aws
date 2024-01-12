@@ -26,6 +26,7 @@ Après avoir sélectionné notre image, nous devons renseigner les différents c
 <br />
 Après avoir sélectionné notre VPC, nous définissons notre sous-réseau
 
+![image](https://github.com/abiForSofteam/aws/assets/56606441/eaddcbc7-88d5-4e67-b77c-b2d6dc6c88ba)
 
 <br />
 <br />
