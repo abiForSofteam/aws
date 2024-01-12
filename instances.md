@@ -30,7 +30,7 @@ Après avoir sélectionné notre VPC,
 Cette adresse ip peut nous servir entre autres, pour la connexion ssh à l'instance.
 <br />La définission du groupe de sécurité pour le contrôle du trafic entrant et sortant est requise.
 Sa Mise en place est développée dans la section 
-[Security Group](https://github.com/abiForSofteam/aws/blob/main/security-groups.md)
+ [Security Group](https://github.com/abiForSofteam/aws/blob/main/security-groups.md)
 
 <br /><br />
 
