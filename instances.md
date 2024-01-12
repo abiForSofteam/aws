@@ -24,7 +24,7 @@ Après avoir sélectionné notre image, nous devons renseigner les différents c
 
 <br />
 <br />
-Après avoir sélectionné notre VPC, 
+Après avoir sélectionné notre VPC (celui par défaut, ou celui éventuellement mis en place par nos soins), 
 <br /> - nous définissons notre sous-réseau que nous pouvons créer ou sélectionner parmi ceux proposés par AWS.
 <br />  - Optons pour le choix d'une attribution automatique d'une adresse ip publique.
 Cette adresse ip peut nous servir entre autres, pour la connexion ssh à l'instance.
