@@ -24,8 +24,12 @@ Après avoir sélectionné notre image, nous devons renseigner les différents c
 
 <br />
 <br />
-Après avoir sélectionné notre VPC, nous définissons notre sous-réseau
-
+Après avoir sélectionné notre VPC, 
+<br />nous définissons notre sous-réseau que nous pouvons créer ou sélectionner parmi ceux proposés par AWS.
+<br /> Optons pour le choix d'une attribution automatique d'une adresse ip publique.
+Cette adresse ip peut nous servir entre autres, pour la connexion ssh à l'instance.
+<br />La définission du groupe de sécurité pour le contrôle du trafic entrant et sortant est requise.
+<br />Sa Mise en place est développée dans la section [SECURITY GROUPS](https://github.com/abiForSofteam/aws/edit/main/security-groups.md)
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/eaddcbc7-88d5-4e67-b77c-b2d6dc6c88ba)
 
 <br />
