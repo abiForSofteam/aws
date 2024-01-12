@@ -20,6 +20,8 @@
 
 ##### Après avoir sélectionné notre image, nous devons renseigner les différents champs pour la mise en place de notre instance.
 
+##### La spécification d'une paire de clés est nécessaire pour la mise en place de notre instance, et sa création est développée dans la section [Key Pair](https://github.com/abiForSofteam/aws/blob/main/keypair.md)
+
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/cea22682-f84a-4947-bf19-c9776eb1f006)
 
 
