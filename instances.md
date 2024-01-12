@@ -53,6 +53,9 @@ Instance en cours de création
 <br />
 Instance en cours d'exécution
 
+![image](https://github.com/abiForSofteam/aws/assets/56606441/9b221786-1f46-43ae-a794-53d15b60576c)
+
+
 
 
 
