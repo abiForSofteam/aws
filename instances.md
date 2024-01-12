@@ -37,7 +37,9 @@ Sa Mise en place est développée dans la section    [Security Group](https://gi
 
 <br />
 <br />
-Nous laissons la configuration du stockage par défaut.
+Pour l'exemple, nous laisserons par défaut les paramètres qui suivent, notamment ceux relatifs à la configuration du stockage.
+<br />Ensuite nous validons pour la création de l'instance EC2.
+
 
 
 
