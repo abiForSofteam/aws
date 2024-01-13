@@ -48,6 +48,11 @@ Pour l'exemple, nous laisserons par défaut les paramètres qui suivent, notamme
 <br />
 <br />
 
+![image](https://github.com/abiForSofteam/aws/assets/56606441/9ee17d90-c3c9-4cd0-bcf9-578c283ed83d)
+
+<br />
+<br />
+
 ### Instance en cours de création
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/fdb76df6-df21-41ab-a736-eb866947dafa)
