@@ -13,8 +13,17 @@ Pour la création des clés d'accès, suivons les étapes suivantes :
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/84813085-ce30-4e3c-a762-1d01adef8185)
 
 
-3.
+3. Sélectionnons notre cas d'utilisation
 
-![image](https://github.com/abiForSofteam/aws/assets/56606441/e79f1e07-beda-4a23-96a3-75924c313a6a)
+![image](https://github.com/abiForSofteam/aws/assets/56606441/c5eeed73-d312-4eb0-a0db-81919ed293b6)
+
+4. Après une spécification éventuelle de la description, on procède à la création des identifiants par le bouton en bas de page.
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/c42b4cd7-1152-45df-8f8c-18127aebdd62)
+
+
+5. Nous pouvons maintenant récupérer nos identifiants
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/c2ca0c54-b390-40b0-ae7b-df38dade0783)
 
 
