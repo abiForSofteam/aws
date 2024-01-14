@@ -12,3 +12,9 @@ Pour la création des clés d'accès, suivons les étapes suivantes :
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/84813085-ce30-4e3c-a762-1d01adef8185)
 
+
+3.
+
+![image](https://github.com/abiForSofteam/aws/assets/56606441/e79f1e07-beda-4a23-96a3-75924c313a6a)
+
+
