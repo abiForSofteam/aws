@@ -17,7 +17,7 @@ Pour la création des clés d'accès, suivons les étapes suivantes :
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/c5eeed73-d312-4eb0-a0db-81919ed293b6)
 
-4. Après une spécification éventuelle de la description, on procède à la création des identifiants par le bouton en bas de page.
+4. Après une spécification éventuelle de la description, on procède à la création des identifiants.
 
 ![image](https://github.com/abiForSofteam/aws/assets/56606441/c42b4cd7-1152-45df-8f8c-18127aebdd62)
 
